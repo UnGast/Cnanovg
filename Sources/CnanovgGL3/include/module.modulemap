@@ -1,0 +1,5 @@
+module CnanovgGL3 {
+    use Cnanovg
+    header "shim.h"
+    export *
+}

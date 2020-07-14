@@ -1,0 +1,5 @@
+module Cnanovg {
+    header "../nanovg/src/nanovg.h"
+    //header "../nanovg/src/nanovg_gl.h"
+    export *
+}
