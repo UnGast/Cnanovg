@@ -15,6 +15,8 @@ Then you can simply `import CnanovgGL3` in your code.
 
 You can find examples for how to use the api in the [NanoVG repository](https://github.com/memononen/nanovg).
 
+Tested on Linux (Ubuntu) and MacOS with Swift 5.2
+
 # Dependencies
 
 [NanoVG on Github](https://github.com/memononen/nanovg)
